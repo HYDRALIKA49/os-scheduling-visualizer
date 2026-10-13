@@ -4,7 +4,7 @@ An interactive Python tool designed to help students and developers visualize ho
 
 Built to bridge the gap between theoretical OS concepts and practical understanding.
 
-
+for preview or output use the .exe file
 
 ## ✨ Features
 
